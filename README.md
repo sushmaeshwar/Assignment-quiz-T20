@@ -8,7 +8,7 @@ This is a CLI app.
     > - Level 2
     >   - Rules:
     >     - One has to score 5/5 to reach level 2
-    >     - And the user has to score the highest than the        top scorers to be included in top scorer's list
+    >     - And the user has to score the highest than the top scorers to be included in top scorer's list
     >     - If a message such as "you scorerd the highest, please send us the screenhot" appears to user, then the user need to send a screenshot of his score, to include his name in the top scorer's list.
 
 *The tech stack includes:*
@@ -22,4 +22,4 @@ This is a CLI app.
 
 - repl.it is a free IDE
 
-[CLICK HERE TO SEE THE PROJECT LIVE ON CLI](https://replit.com/@SUSHMA25/Task-15-Do-you-know-me?embed=1)
+[CLICK HERE TO SEE THE PROJECT LIVE ON CLI](https://replit.com/@SUSHMA25/Assignment-QuizT20?embed=1)
